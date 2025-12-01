@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ハルカヒカリ",
+  "base_artist": "ラックライフ",
+  "createdAt": "2025-12-01T06:39:24.137302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルカヒカリ",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/01_ハルカヒカリ_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルカヒカリ - Harukahikari",
+      "artist": "LUCK LIFE",
+      "has_synced": true,
+      "path": "select/02_ハルカヒカリ_-_Harukahikari_LUCK_LIFE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルカヒカリ",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_ハルカヒカリ_ラックライフ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハルカヒカリ",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_02_ハルカヒカリ_ラックライフ.txt"
+    }
+  ]
+}
